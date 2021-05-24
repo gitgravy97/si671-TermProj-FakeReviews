@@ -1,2 +1,3 @@
-# si671-TermProj-FakeReviews
-Term project from SI671 Data Mining on detecting fake Amazon reviews
+# SI671 Term Project :: Fake Review Detection on Amazon\
+
+todo
